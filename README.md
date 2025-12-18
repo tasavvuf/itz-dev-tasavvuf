@@ -6,7 +6,7 @@
 *"The AI Alchemist who raps in binary"*  
 
 [![Twitter](https://img.shields.io/badge/-@tasavvuf909-black?style=flat&logo=x&logoColor=white)](https://x.com/tasavvuf909)  
-[![Insta Vibe Check](https://img.shields.io/badge/-@_tev_123-ff69b4?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/_tev_123)  
+[![Insta Vibe Check](https://img.shields.io/badge/-@10.186.21.208-ff69b4?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/10.186.21.208?igsh=YnhoZGQ0MHppMDdp)  
 [![GitHub Swag](https://img.shields.io/badge/-@itz--dev--tasavvuf-181717?style=flat&logo=github&logoColor=white)](https://github.com/itz-dev-tasavvuf)  
 
 ![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3l5b2N4Z3h2eW5tZ3h6ZzA0bGZ5Y3Fyb3Z6ZzJ4c3Y5c2VrZ2h4diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7aTskHEUdgCQAXde/giphy.gif)
