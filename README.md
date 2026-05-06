@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Tasavvuf! 👋</h1>
 
-<h3 align="center">Full-Stack Developer | MERN Specialist | Hackathon Winner 🚀</h3>
+<h3 align="center">Full-Stack Developer | MERN  🚀</h3>
 
 <p align="center">
   I'm a software engineering student and full-stack developer who loves building products that solve real problems. I specialize in the <strong>MERN stack</strong> and modern web technologies, treating AI coding assistants (like Copilot and Codex) as productivity multipliers to ship high-quality code faster.
